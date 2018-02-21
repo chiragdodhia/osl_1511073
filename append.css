@@ -1,0 +1,182 @@
+#logo
+{
+	height:100px;
+	width:150px;
+}
+#psom
+{
+	font-size:44px;
+	font-family:"stencil";
+	width:950px;
+	color:#8A2BE2;
+}
+#div1
+{
+	background-color:#FDEEF4;
+	
+}
+#trustlogo
+{
+	height:100px;
+	width:150px;
+}
+#td1
+{
+	padding-left:70px;
+}
+#backimg1
+{
+	width:1340px;
+	height:500px;
+}
+#pevent
+{
+text-align: center;
+font-family:"algerian";
+font-size:44px;
+}
+#t2
+{
+	font-size:42px;
+	font-family:"brittanic bold";
+	cell-spacing:20px;
+	background-color:#deeff5;
+	color:maroon;
+}
+.tdc1:hover
+{
+	background-color:#b5dbe8;
+	color:#A52A2A;
+}
+.tdc1
+{
+	color:maroon;
+}
+.pgrp
+{
+	text-shadow:1px 1px black;
+	color:maroon;
+	font-size:22px;
+	font-family:"britannic bold";
+}
+.class_p1,.class_p2,.class_p3,.class_p4,.class_p5,.class_p6,.class_p7,.class_p8,.class_p9,.class_p10
+{
+	text-shadow:1px 1px black;
+	color:maroon;
+}
+.cl3
+{
+	background-color:green;
+	color:white;
+	height:40px;
+	width:80px;
+}
+.cl3:hover
+{
+	background-color:#00cc00;
+}
+#tdh
+{
+	width:40%;
+}
+#tdh1
+{
+	width:50%;
+	background-color:#D3D3D3;
+}
+#tdh3
+{
+	width:25%;
+}
+.pgrp2
+{
+text-shadow:1px 1px black;
+	color:orange;
+	font-size:26px;
+}
+.bordertd,#tr1,#tableret
+{
+	border : 1px solid black;
+	border-collapse: collapse;
+	max-width:100%;
+	table-layout: fixed;
+}
+a 
+{
+    text-decoration: none;
+}
+#div2
+{
+	position:relative;
+	left:350px;
+	width:600px;
+	background-color:#D3D3D3;
+}
+#div3
+{
+	padding-left:20px;
+	
+}
+#t4
+{
+	width:100px;
+}
+#i4
+{
+	height:500px;
+	width:450px;
+}
+#i5
+{
+	height:500px;
+	width:450px;
+}
+#logo1
+{
+	height:50px;
+	width:80px;
+}
+.eventtime,.sp1
+{
+	font-size:18px;
+	color:darkblue;
+	font-family:"times new roman";
+}
+.sp2
+{
+	color:#696969;
+	font-size:16px;
+	font-family:"times new roman";
+}
+.sp3
+{
+	color:#A9A9A9;
+	font-size:13px;
+	font-family:"times new roman";
+}
+#t6,tr.trborder
+{
+	
+    border-style: solid;
+    border-width: thin;
+}
+.headingtxt
+{
+	color:grey;
+	font-size:12px;
+}
+.imgcls
+{
+	height:200px;
+	width:300px;
+}
+#downp
+{
+	position:relative;
+	top:60px;
+}
+.divassign
+{
+	color:darkblue;
+
+}
